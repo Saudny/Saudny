@@ -13,7 +13,7 @@
   </h3>
 
   <div id="badges" align="center">
-    <a href="https://linkedin.com/in/saudny" target="blank"
+    <a href="https://linkedin.com/in/saudny" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/Saudny/Saudny/main/assets/svg/linkedin.svg"
@@ -21,7 +21,7 @@
         height="30"
         width="40"
     /></a>
-    <a href="https://www.instagram.com/sauldequito/" target="blank"
+    <a href="https://www.instagram.com/sauldequito/" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/Saudny/Saudny/main/assets/svg/instagram.svg"
@@ -29,7 +29,7 @@
         height="30"
         width="40"
     /></a>
-    <a href="https://www.instagram.com/comsoc.epn/" target="blank"
+    <a href="https://www.instagram.com/comsoc.epn/" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/Saudny/Saudny/main/assets/svg/ieee.svg"
