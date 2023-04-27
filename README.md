@@ -4,13 +4,9 @@
     width="200"
   />
   <h1 align="center">Hi, I'm Saúl</h1>
-  <h3 align="center">
-    Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32,
-    LpWan), robotics, electronics, smart cities, and some projects that I came
-    up with. My interest is to share with everyone the knowledge that I am
-    obtaining in an easy and didactic way. So, if you need help with any
-    project, don't hesitate to ask!
-  </h3>
+</div>
+
+Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32, LpWan), robotics, electronics, smart cities, and some projects that I came up with. My interest is to share with everyone the knowledge that I am obtaining in an easy and didactic way. So, if you need help with any project, don't hesitate to ask!
 
 - 📚 Currently studying **Telecommunications Engineering** at the **Escuela Politécnica Nacional**
 
@@ -22,40 +18,41 @@
 
 - ⚡ Curious fact **hola**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blo
-
-  <div id="badges" align="center">
-    <a href="https://linkedin.com/in/saudny" target="_blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-        alt="LinkedIn"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://www.instagram.com/sauldequito/" target="_blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="Instagram"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://www.instagram.com/comsoc.epn/" target="_blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/Saudny/Saudny/main/assets/svg/ieee-icon.svg"
-        alt="IEEE"
-        height="35"
-        width="35"
-    /></a>
-    <a href="https://www.instagram.com/saulhub/" target="_blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/arduino.svg"
-        alt="Arduino"
-        height="30"
-        width="40"
-    /></a>
-  </div>
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/saudny" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+  <a href="https://www.instagram.com/sauldequito/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="30"
+      width="40"
+    />
+  </a>
+  <a href="https://www.instagram.com/comsoc.epn/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/Saudny/Saudny/main/assets/svg/ieee-icon.svg"
+      alt="IEEE"
+      height="35"
+      width="35"
+    />
+  </a>
+  <a href="https://www.instagram.com/saulhub/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/arduino.svg"
+      alt="Arduino"
+      height="30"
+      width="40"
+    />
+  </a>
 </div>
