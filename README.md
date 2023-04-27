@@ -6,7 +6,9 @@
 Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32, LpWan), robotics, electronics, smart cities, and some projects that I came up with. My interest is to share with everyone the knowledge that I am obtaining in an easy and didactic way. So, if you need help with any project, don't hesitate to ask!
 
 ---
+
 ### 👨‍💻 About Me :
+
 - 📚 Currently studying **Telecommunications Engineering** at the **Escuela Politécnica Nacional**
 
 - 🔭 Currently working as a **Research Assistant** at **SmartLab**
@@ -15,9 +17,36 @@ Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32, LpWan
 
 - 📫 Reach me at **sauldaniel67@gmail.com**
 
-- ⚡ Curious fact **hola**
+- ⚡ Curious fact **Mi lenguaje nativo es el español equisde**
 
-<h3 align="left"> - Connect with me:</h3>
+<div align="left">
+    <h3> - Languages and Tools:</h3>
+    <div>
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    </div>
+</div>
+
+---
+
+### 📊 Some Stats :
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saudny&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saudny&layout=compact&langs_count=8&theme=onedark"/>
+</p>
+
+---
+
+### 📲 Connect with me :
+
 <div id="badges" align="left">
   <a href="https://linkedin.com/in/saudny" target="_blank">
     <img
@@ -55,19 +84,4 @@ Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32, LpWan
       width="40"
     />
   </a>
-</div>
-
-<div align="left">
-    <h3> - Languages and Tools:</h3>
-    <div>
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    </div>
 </div>
