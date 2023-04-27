@@ -20,7 +20,7 @@ Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32, LpWan
 - ⚡ Curious fact **Mi lenguaje nativo es el español equisde**
 
 <div align="left">
-    <h3> - Languages and Tools:</h3>
+    <h3> 🛠 Languages and Tools :</h3>
     <div>
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
@@ -35,23 +35,8 @@ Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32, LpWan
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     </div>
-</div>
-
----
-
-### 📊 Some Stats :
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saudny&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <!--img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saudny&layout=compact&langs_count=8&theme=onedark"/-->
-</a>
-</p>
-
----
-
-### 📲 Connect with me :
-
+  
+  <h3> 📲 Connect with me :</h3>
 <div id="badges" align="left">
   <a href="https://linkedin.com/in/saudny" target="_blank">
     <img
@@ -90,3 +75,17 @@ Hi, my name is Saul. Here you will find some IoT projects (Arduino, ESP32, LpWan
     />
   </a>
 </div>
+</div>
+
+
+---
+
+### 📊 Some Stats :
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saudny&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <!--img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saudny&layout=compact&langs_count=8&theme=onedark"/-->
+</a>
+</p>
+
